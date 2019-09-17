@@ -1,7 +1,6 @@
 C:\Users\Fiach Reid\Documents\Visual Studio 2017\Projects\HttpDb\HttpDb\bin\Debug\HttpDb.dacpac
 C:\Users\Fiach Reid\Documents\Visual Studio 2017\Projects\HttpDb\HttpDb\bin\Debug\HttpDb.dll
 C:\Users\Fiach Reid\Documents\Visual Studio 2017\Projects\HttpDb\HttpDb\bin\Debug\HttpDb.pdb
-C:\Users\Fiach Reid\Documents\Visual Studio 2017\Projects\HttpDb\HttpDb\obj\Debug\HttpDb.sqlprojAssemblyReference.cache
 C:\Users\Fiach Reid\Documents\Visual Studio 2017\Projects\HttpDb\HttpDb\obj\Debug\Model.xml
 C:\Users\Fiach Reid\Documents\Visual Studio 2017\Projects\HttpDb\HttpDb\obj\Debug\refactor.xml
 C:\Users\Fiach Reid\Documents\Visual Studio 2017\Projects\HttpDb\HttpDb\obj\Debug\postdeploy.sql
