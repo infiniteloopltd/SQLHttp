@@ -4,6 +4,7 @@ This is a CLR UDF that allows you to make HTTP requests from SQL server
 
 ![screenshot](https://httpsimage.com/v2/986eed02-c279-4820-a910-69c81326a51c.png)
 
+```sql
 -- Installation Instructions
 
 EXEC sp_changedbowner 'sa'
@@ -26,4 +27,4 @@ WITH PERMISSION_SET = UNSAFE
 CREATE FUNCTION [dbo].[http] (@url [nvarchar](MAX))
 RETURNS [nvarchar](MAX)
 AS EXTERNAL NAME [HttpDb].[UserDefinedFunctions].[http];
-
+```
